@@ -28,3 +28,13 @@ img:hover{
     filter: grayscale(0%);
     border-radius: 100%;
 }
+
+div{
+    width: 50%;
+    padding: 10px;
+    border: none;
+    background-color: lightcyan;
+    border-radius: 20px;
+    color: red;
+    margin: 0 auto;
+}
